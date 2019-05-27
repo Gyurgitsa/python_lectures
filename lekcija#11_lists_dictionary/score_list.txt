@@ -1,0 +1,44 @@
+[
+  {
+    "attempts": 4,
+    "date": "2019-05-16T00:11:19.354487",
+    "name": "gugi",
+    "secret_number": "25",
+    "wrong_guesses": "3"
+  },
+  {
+    "attempts": 4,
+    "date": "2019-05-16T00:24:36.506528",
+    "name": "gugi",
+    "secret_number": "15",
+    "wrong_guesses": "3"
+  },
+  {
+    "attempts": 2,
+    "date": "2019-05-16T00:25:06.841085",
+    "name": "gugi",
+    "secret_number": "21",
+    "wrong_guesses": "1"
+  },
+  {
+    "attempts": 13,
+    "date": "2019-05-16T00:27:44.941482",
+    "name": "gugi",
+    "secret_number": "27",
+    "wrong_guesses": "12"
+  },
+  {
+    "attempts": 5,
+    "date": "2019-05-16T00:29:19.671651",
+    "name": "gugi",
+    "secret_number": "12",
+    "wrong_guesses": "4"
+  },
+  {
+    "attempts": 5,
+    "date": "2019-05-16T00:32:52.487405",
+    "name": "12",
+    "secret_number": "9",
+    "wrong_guesses": "4"
+  }
+]
